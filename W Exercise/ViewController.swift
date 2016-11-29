@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         print("Hacking...")
         print("Plant trojan...")
         
-        
+        print("Restarting..." )
     }
 
     override func didReceiveMemoryWarning() {
